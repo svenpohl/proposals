@@ -1,4 +1,4 @@
-= Wordpress theme for EOS support
+# Wordpress theme for EOS support
 
 ...
 
