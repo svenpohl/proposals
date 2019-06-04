@@ -1,0 +1,4 @@
+# Wordpress theme for EOS support
+
+...
+
