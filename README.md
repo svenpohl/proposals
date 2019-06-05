@@ -1,3 +1,3 @@
-# Propusals and ideas
+# Proposals and ideas
 
 * Independent projects.
